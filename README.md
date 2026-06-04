@@ -312,12 +312,6 @@ The repository will be continuously updated as new experiments, models, datasets
 
 ---
 
-# 👨‍💻 Authors
-
-OpenLab Research Project
-
-Plant Disease Detection Using Multimodal Deep Learning with Explainable AI
-
 ---
 
 # ⭐ Acknowledgements
