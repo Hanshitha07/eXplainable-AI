@@ -317,7 +317,7 @@ The repository will be continuously updated as new experiments, models, datasets
 # ⭐ Acknowledgements
 
 - PlantVillage Dataset
-- TensorFlow & Keras
+- TensorFlow & Keras , python
 - LIME
 - SHAP
 - Google Colab
